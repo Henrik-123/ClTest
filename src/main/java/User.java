@@ -17,6 +17,6 @@ public class User {
     }
 
     public void changeName(String newName) {
-        userName = "Name";
+        userName = "Nameu";
     }
 }
